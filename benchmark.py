@@ -1,5 +1,5 @@
 import timeit
-from ukkoken import distance
+from ukkonen import distance
 from pyukkonen import ukkonen
 
 
