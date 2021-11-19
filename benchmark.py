@@ -1,6 +1,6 @@
 import timeit
 from ukkoken import distance
-from pyukkoken import ukkonen
+from pyukkonen import ukkonen
 
 
 with open("apache2.txt", "r") as f:
